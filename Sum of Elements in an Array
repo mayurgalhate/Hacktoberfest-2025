@@ -1,0 +1,25 @@
+// array_sum.cpp
+// Simple C++ program to calculate sum of elements in an array
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    int n;
+    cout << "Enter number of elements in array: ";
+    cin >> n;
+
+    vector<int> arr(n);
+    cout << "Enter " << n << " integers:\n";
+    for (int i = 0; i < n; i++) {
+        cin >> arr[i];
+    }
+
+    int sum = 0;
+    for (int i = 0; i < n; i++) {
+        sum += arr[i]; // Add each element to sum
+    }
+
+    cout << "Sum of array elements: " << sum << endl;
+    return 0;
+}
