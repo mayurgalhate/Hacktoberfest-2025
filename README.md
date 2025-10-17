@@ -1,72 +1,42 @@
-# Hacktoberfest-2025
+# 🎃 Hacktoberfest 2025 — DSA in C++
 
-# 🎃 Hacktoberfest 2025 — DSA Algorithms in C++
-
-[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=github)](https://hacktoberfest.com/)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://hacktoberfest.com/)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/DSA-Algorithms-Hacktoberfest?style=social)](https://github.com/yourusername/DSA-Algorithms-Hacktoberfest/stargazers)
-
-Welcome to **DSA Algorithms in C++**, a beginner-friendly open-source project for **Hacktoberfest 2025**!  
-Here you can add, explore, and learn **Data Structures and Algorithms** implemented in **C++** 🚀
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=github)
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+![Made with C++](https://img.shields.io/badge/Made%20with-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
+![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)
 
 ---
 
-## 🧠 About This Repository
-
-This project is designed to help students and developers:
-- Contribute to **open source** during Hacktoberfest  
-- Practice **Data Structures and Algorithms**  
-- Learn how to use **Git and GitHub** for real-world collaboration  
-
-You can add your favorite algorithm, improve existing code, or even enhance documentation!  
+### 🚀 Welcome!
+This repository is your **go-to place** to contribute amazing **Data Structures and Algorithms in C++** during **Hacktoberfest 2025**.  
+Whether you’re a **beginner** or an **experienced coder**, this is your chance to learn, code, and grow with open source 💪
 
 ---
 
-## 🧩 Topics Covered
-
-✅ Searching Algorithms  
-✅ Sorting Algorithms  
-✅ Graph Algorithms  
-✅ Dynamic Programming  
-✅ Recursion & Backtracking  
-✅ Greedy Algorithms  
-✅ Tree & Linked List Problems  
+### 🧠 Topics You Can Contribute
+- 🔹 Searching & Sorting  
+- 🔹 Graph Algorithms  
+- 🔹 Dynamic Programming  
+- 🔹 Greedy Techniques  
+- 🔹 Recursion & Backtracking  
+- 🔹 Tree, Linked List, Stack, Queue  
 
 ---
 
-## ⚙️ How to Contribute
-
-1. **Fork this repository**
-   - Click the `Fork` button on top-right of this page.
-
-2. **Clone your forked repo**
+### ⚙️ How to Contribute
+1. **Fork** this repository  
+2. **Create a new branch**
    ```bash
-   git clone https://github.com/<your-username>/DSA-Algorithms-Hacktoberfest.git
-Create a new branch
+   git checkout -b feature/add-your-algorithm
+Add your code inside the algorithms/ folder
 
-bash
-Copy code
-git checkout -b feature/add-your-algorithm
-Add your algorithm
-
-Inside the /algorithms folder, add your .cpp file.
-
-Example file name: tarjan_scc.cpp or kadane_algorithm.cpp
-
-Commit and push
+Commit & push
 
 bash
 Copy code
 git add .
-git commit -m "feat: Add Kadane’s Algorithm in C++"
+git commit -m "feat: Add <Algorithm Name> in C++"
 git push origin feature/add-your-algorithm
-Create Pull Request
+Open a Pull Request
 
-Go to your GitHub repo.
-
-Click Compare & Pull Request.
-
-Add a clear title and short description.
-
-Submit! 🎉
-
+Wait for review & merge ✅
