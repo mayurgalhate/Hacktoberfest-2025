@@ -1,4 +1,5 @@
 # 🎃 Hacktoberfest 2025 — DSA in C++
+[![An image of @mayur7777's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayur7777)](https://holopin.io/@mayur7777)
 
 ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=github)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
